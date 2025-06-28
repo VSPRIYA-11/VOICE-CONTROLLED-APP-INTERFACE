@@ -10,3 +10,4 @@ Created a mobile UI prototype for a smart home app using voice commands like “
 
 "OUTPUT":
 
+![Image](https://github.com/user-attachments/assets/22b0e9ea-26dc-4822-ab8a-3aaa18f6a8a1)
